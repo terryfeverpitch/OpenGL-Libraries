@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="build-vc9">
+</Property><Property Name="方案檔" Value="D:\opengl\gluit\build-vc9\build-vc9.sln">
+</Property><Property Name="使用者選項檔" Value="D:\opengl\gluit\build-vc9\build-vc9.suo">
+</Property><Property Name="Date" Value="2013年10月14日">
+</Property><Property Name="Time" Value="15:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="build-vc9.sln" Description="檔案已成功備份為 D:\opengl\gluit\build-vc9\build-vc9.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="build-vc9.suo" Description="檔案已成功備份為 D:\opengl\gluit\build-vc9\build-vc9.suo.old">
+</Event><Event ErrorLevel="0" Project="build-vc9" Source="build-vc9.vcproj" Description="Converting project file 'D:\opengl\gluit\build-vc9\build-vc9.vcproj'.">
+</Event><Event ErrorLevel="1" Project="build-vc9" Source="build-vc9.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="build-vc9" Source="build-vc9.vcproj" Description="MSB8012: $(TargetName) ('build-vc9') does not match the Librarian's OutputFile property value '..\lib\gluit-vc9.lib' ('gluit-vc9') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="build-vc9" Source="build-vc9.vcproj" Description="MSB8012: $(TargetPath) ('D:\opengl\gluit\build-vc9\Debug\build-vc9.lib') does not match the Librarian's OutputFile property value '..\lib\gluit-vc9.lib' ('D:\opengl\gluit\lib\gluit-vc9.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="build-vc9" Source="build-vc9.vcproj" Description="Done converting to new project file 'D:\opengl\gluit\build-vc9\build-vc9.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="build-vc9" Source="build-vc9.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="build-vc9.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="build-vc9.sln" Description="Converted">
+</Event></UpgradeLog>
